@@ -1,0 +1,20 @@
+1. Para que sirve una rama en git.
+Permite crear copias aisladas del codigo principal.
+
+2. Que es un conflicto y cuando se produce.
+Cuando dos cambios chocan y no sabe cual usar.
+
+3. Porque es importante usar buenos mensajes en los commit.
+Para saber lo que has hecho tu y tambien por si lo ve alguien de tu equipo para que sepa que es. 
+
+4. Porque no deberiamos trabajar directamente desde main.
+Porque hay riesgo de borrar algo que no quieras o puede romper el programa.
+
+5. Que ocurre si haces un commit sin haber añadido los cambios al area de staging.
+Los cambios no se guardan en el commit, git solo guarda lo que ya estaba en el staging. 
+
+6. Porque es importante usar GIT en proyectos en equipo.
+Para que tu equipo pueda ver lo que has hecho y para poder actualizar algo de algun compañero cuando quieras.
+
+7. Que problema pueden surgir si no se utilizan ramas en un proyecto colaborativo.
+Es arriesgado, desordenado y propenso a errores.
